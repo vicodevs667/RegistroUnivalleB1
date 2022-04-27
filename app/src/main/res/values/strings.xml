@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RegistroUnivalle</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_apellido">Apellido:</string>
+    <string name="hint_email">Email:</string>
+    <string name="hint_celular">Celular:</string>
+    <string name="hint_codigo">Codigo Estudiante:</string>
+    <string name="sw_estudiante">Es estudiante?</string>
+    <string name="btn_registrar">Registrar</string>
+</resources>
